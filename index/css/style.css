@@ -1,0 +1,24 @@
+ /* CSS */
+h1 {
+  max-width: fit;
+  color: green;
+  border-radius: black ;
+  background-color: burlywood;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Code CSS */
+p strong {
+  background-color: khaki;
+  color: green;
+ }
+ strong {
+  text-decoration: underline;
+  color: red;
+ }
+ h2 {
+  min-width: auto;
+  color: darkmagenta;
+  border: 5px solid red;
+  background-color: gold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }s
